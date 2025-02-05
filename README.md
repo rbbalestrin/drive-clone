@@ -1,9 +1,11 @@
-# Docs to go
 
-# TODO
+# Drive Tutorial
 
-- [ ] Add a better README
+
+# todo:
+
+- [ ] Create a new folder
 - [ ] setup database
-- [ ] setup authentication
 - [ ] state to url
-- [ ] file uploading
+- [ ] add auth
+- [ ] add file upload
